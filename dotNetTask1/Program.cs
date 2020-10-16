@@ -9,7 +9,7 @@ namespace dotNetTask1
 {
     class Program
     {
-        const int N = 300; // Размер матриц
+        const int N = 1000; // Размер матриц
         static void Main(string[] args)
         {
             double[,] a, b, c; // Определение прямоугольных массивов
